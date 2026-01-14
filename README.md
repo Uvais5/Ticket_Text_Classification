@@ -1,8 +1,5 @@
 # Ticket_Text_Classification
 
----
-
-# ✅ TASK 1  
 ## Customer Support Ticket Classification & Entity Extraction
 
 ---
