@@ -89,11 +89,16 @@ Returned as a structured Python dictionary / JSON.
 A single pipeline function takes **raw ticket text** and returns:
 ```json
 {
-  "issue_type": "...",
-  "urgency_level": "...",
-  "entities": {
-    "product": "...",
-    "date": "...",
-    "keywords": []
-  }
+"Classification":{
+"Issue Type":"Installation Issue",
+"Urgency Level":"Medium"
+},
+"Extracted Entities":{
+"Matched Products":["FitRun Treadmill",
+"UltraClean Vacuum",
+"RoboChef Blender"],
+
+"Dates Mentioned":["17 March"],
+"Specific Complaints":["fails","issue","error"]
+}
 }
