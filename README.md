@@ -3,7 +3,7 @@
 ## Customer Support Ticket Classification & Entity Extraction
 
 ---
- <img src="interface.png" alt="Watch Flexible Emotion Detector Demo" width="640">
+ <img src="interface.png" alt="Watch Flexible Emotion Detector Demo" width="1040">
 ---
 
 ## 🎯 Objective
